@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react';
 
 function Header() {
   return (
-    <header>
-      <h1 className="text-center">Flatiron Stock Exchange</h1>
+    <header className="header">
+      <h1 className="header-title">Flatiron Stock Exchange</h1>
     </header>
   );
 }
